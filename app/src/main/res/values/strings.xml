@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AI Image Labeler</string>
+    <string name="homeScreenPrompt">Please select image(s) to magically rename!</string>
+    <string name="image_content_description">Selected Image to Rename</string>
+    <string name="menu_rename_via_cloud">Rename using Cloud (more accurate)</string>
+    <string name="menu_rename_via_device">Rename using Device</string>
+    <string name="menu_select_folder">Select Folder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="error_no_activity">Error, no activity.</string>
+    <string name="selected_image_to_rename">Selected Image to Rename</string>
+    <string name="appwidget_title">Image Name-Change History</string>
+    <string name="appwidget_content">Image History Content.</string>
+    <string name="add_widget">Add widget</string>
+    <string name="open_directory_button_description">Click to choose image directory to open.</string>
+    <string name="process_local_button_description">Process image renaming via local ML model.</string>
+    <string name="process_cloud_button_description">Process image renaming via Google cloud ML model.</string>
+    <string name="notification_builder_content_text">Add meaningful names to your new images...</string>
+    <string name="channel_name">Ai Labeler Channel</string>
+    <string name="channel_description">Ai labeler notification channel</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889725443644",
+    "firebase_url": "https://image-labeler-272023.firebaseio.com",
+    "project_id": "image-labeler-272023",
+    "storage_bucket": "image-labeler-272023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889725443644:android:9f77262160f96abd6fed39",
+        "android_client_info": {
+          "package_name": "com.haodydoody.imagelabeler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889725443644-p0m901l6t3rh9jtktvnefhjs1n0nhv99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsqOJDjLF9-8vojTXn6l762_lLbw_u6_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889725443644-p0m901l6t3rh9jtktvnefhjs1n0nhv99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.haodydoody.MainActivity">
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_rename_local"
+        android:icon="@drawable/ic_action_rename_local"
+        android:title="@string/menu_rename_via_device"
+        app:showAsAction="ifRoom"
+        android:contentDescription="@string/process_local_button_description"
+        />
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_rename_cloud"
+        android:icon="@drawable/ic_action_rename_cloud"
+        android:title="@string/menu_rename_via_cloud"
+        app:showAsAction="ifRoom"
+        android:contentDescription="@string/process_cloud_button_description"
+        />
+
+
+</menu>
